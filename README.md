@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mr4dd/mr4dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+19-year-old developer with a passion for coding. Proficient in Python, JavaScript, Linux, Docker, C, Golang, and web development.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- JavaScript
+- Linux
+- Docker
+- C
+- Golang
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [Email](mailto:adamconta@outlook.com)
+
+Feel free to connect for coding projects or discussions!
