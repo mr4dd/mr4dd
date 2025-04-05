@@ -16,3 +16,5 @@
 - [Email](mailto:adamconta@outlook.com)
 
 Feel free to connect for coding projects or discussions!
+
+![stats](https://github-readme-stats.vercel.app/api?username=mr4dd&show_icons=true&theme=radical)
