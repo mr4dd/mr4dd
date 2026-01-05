@@ -26,4 +26,4 @@ Developer with a passion for programming. Proficient in Python, JavaScript, Linu
 
 Feel free to connect for coding projects or discussions!
 
-![stats](https://github-readme-stats.vercel.app/api?username=mr4dd&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mr4dd?cardType=octocat&theme=tokyonight&fontFamily=Noto%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
