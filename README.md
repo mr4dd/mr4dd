@@ -16,7 +16,7 @@ Developer with a passion for programming. Proficient in Python, JavaScript, Linu
 
 ## Highlighted Projects
 
-- [Zync](https://github.com/mr4dd/zync) (currently WIP): Code runner service with on demand container provisioning based on language and runtime, uses golang for the backend and alpinejs for the frontend.
+- [Pleiades](https://github.com/mr4dd/Pleiades): A media library showcase webapp built using react router and expressjs, uses the TMDB api for media data retrieval. 
 - PixelProof ([extension](https://github.com/mr4dd/PixelProof) and [server](https://github.com/mr4dd/PixelProof-API)): Detect and block AI generated Images using neural networks, BYONN for now.
 - [Gostash](https://github.com/mr4dd/gostash): Simple web based inventory management software written in golang and html, uses sqlite for storage.
 
